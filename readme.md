@@ -7,7 +7,7 @@
 
 # demo
 
-[heroku](lit-dusk-16748.herokuapp.com)
+[heroku](https://lit-dusk-16748.herokuapp.com)
 
 # Features
 
